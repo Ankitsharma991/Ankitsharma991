@@ -21,7 +21,7 @@
 <a href="https://instagram.com/an_kit.11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="an_kit.11" height="30" width="40" /></a>
 <!--   https://icons8.com/icons/set/codechef -->
   
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/ankit_991" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/ankit_991" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/ankit_991" target="blank"><img align="center" src="https://icons8.com/icons/set/codechef" alt="https://www.codechef.com/users/ankit_991" height="30" width="40" /></a>
 <!--   https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg -->
   
   <a href="https://codeforces.com/profile/Ankitsharma991" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" alt="https://www.codechef.com/users/ankit_991" height="30" width="40" color="white"/></a>
