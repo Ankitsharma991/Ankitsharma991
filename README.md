@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack(MERN) and Flutter.**
+- 🌱 I’m currently learning **Full Stack(MERN), React-Native and Android Development(Kotlin).**
 
 - 👨‍💻 All of my projects are available at [https://ankitsharma991.github.io/Portfolio/](https://ankitsharma991.github.io/Portfolio/)
 
